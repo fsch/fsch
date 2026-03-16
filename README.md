@@ -24,7 +24,6 @@ As a Fractional CTO, I roll this out to the teams I lead. Introducing Claude Cod
 - Document intelligence pipelines — NDA review, policy extraction, RAG
 - AI-assisted M365 transformation and Azure journeys
 - SaaS product architecture for industrial data platform (factorIQ.ai)
-- Agentic micro-SaaS 
 
 #### Open Source
 
