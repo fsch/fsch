@@ -22,9 +22,9 @@ As a Fractional CTO, I roll this out to the teams I lead. Introducing Claude Cod
 
 - Production AI for Swiss precision manufacturing
 - Document intelligence pipelines — NDA review, policy extraction, RAG
-- AI-assisted M365 transformation for a 250-person services company
+- AI-assisted M365 transformation and Azure journeys
 - SaaS product architecture for industrial data platform (factorIQ.ai)
-- Agentic micro-SaaS factory — maschinenlog.ch, komplett.ch (in progress)
+- Agentic micro-SaaS 
 
 #### Open Source
 
