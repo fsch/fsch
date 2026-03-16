@@ -4,7 +4,7 @@
 
 I build disciplined AI-assisted workflows with Claude Code and Anthropic's agentic stack — not just for engineering, but for operations, compliance, document processing, and everything in between.
 
-As a Fractional CTO, I roll this out to the teams I lead. Introducing Claude Code to engineers, ops people, and leadership across Swiss SMEs. Making agentic workflows a team capability, not a personal trick.
+As a Fractional CTO, I roll this out to the teams I lead. Introducing Claude Code to engineers, ops people, and leadership across engineering teams. Making agentic workflows a team capability, not a personal trick.
 
 ---
 
